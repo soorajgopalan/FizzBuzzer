@@ -1,0 +1,16 @@
+/Users/sooraj104/Projects/FizzBuzzTDD101/FizzBuzzTDD101/bin/Debug/netcoreapp3.0/FizzBuzzTDD101.deps.json
+/Users/sooraj104/Projects/FizzBuzzTDD101/FizzBuzzTDD101/bin/Debug/netcoreapp3.0/FizzBuzzTDD101.dll
+/Users/sooraj104/Projects/FizzBuzzTDD101/FizzBuzzTDD101/bin/Debug/netcoreapp3.0/FizzBuzzTDD101.pdb
+/Users/sooraj104/Projects/FizzBuzzTDD101/FizzBuzzTDD101/obj/Debug/netcoreapp3.0/FizzBuzzTDD101.csprojAssemblyReference.cache
+/Users/sooraj104/Projects/FizzBuzzTDD101/FizzBuzzTDD101/obj/Debug/netcoreapp3.0/FizzBuzzTDD101.AssemblyInfoInputs.cache
+/Users/sooraj104/Projects/FizzBuzzTDD101/FizzBuzzTDD101/obj/Debug/netcoreapp3.0/FizzBuzzTDD101.AssemblyInfo.cs
+/Users/sooraj104/Projects/FizzBuzzTDD101/FizzBuzzTDD101/obj/Debug/netcoreapp3.0/FizzBuzzTDD101.dll
+/Users/sooraj104/Projects/FizzBuzzTDD101/FizzBuzzTDD101/obj/Debug/netcoreapp3.0/FizzBuzzTDD101.pdb
+/Users/sooraj104/Projects/FizzBuzzer/FizzBuzzTDD101/bin/Debug/netcoreapp3.0/FizzBuzzTDD101.deps.json
+/Users/sooraj104/Projects/FizzBuzzer/FizzBuzzTDD101/bin/Debug/netcoreapp3.0/FizzBuzzTDD101.dll
+/Users/sooraj104/Projects/FizzBuzzer/FizzBuzzTDD101/bin/Debug/netcoreapp3.0/FizzBuzzTDD101.pdb
+/Users/sooraj104/Projects/FizzBuzzer/FizzBuzzTDD101/obj/Debug/netcoreapp3.0/FizzBuzzTDD101.csprojAssemblyReference.cache
+/Users/sooraj104/Projects/FizzBuzzer/FizzBuzzTDD101/obj/Debug/netcoreapp3.0/FizzBuzzTDD101.AssemblyInfoInputs.cache
+/Users/sooraj104/Projects/FizzBuzzer/FizzBuzzTDD101/obj/Debug/netcoreapp3.0/FizzBuzzTDD101.AssemblyInfo.cs
+/Users/sooraj104/Projects/FizzBuzzer/FizzBuzzTDD101/obj/Debug/netcoreapp3.0/FizzBuzzTDD101.dll
+/Users/sooraj104/Projects/FizzBuzzer/FizzBuzzTDD101/obj/Debug/netcoreapp3.0/FizzBuzzTDD101.pdb
