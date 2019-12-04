@@ -31,7 +31,7 @@ namespace FizzBuzzerTests
             var fizzBuzzer = new FizzBuzzer();
             int result = fizzBuzzer.Print();
 
-            result = fizzBuzzer.NextPrint(result);
+            result = fizzBuzzer.NextPrint(2);
 
 
             Assert.AreEqual(3, result);
@@ -43,22 +43,19 @@ namespace FizzBuzzerTests
             var fizzBuzzer = new FizzBuzzer();
             int result = fizzBuzzer.Print();
 
-            result = fizzBuzzer.NextPrint(result);
+            result = fizzBuzzer.NextPrint(3);
 
             Assert.AreEqual(4, result);
         }
         [Test]
-        public void NextPrint_returns7()
+        public void NextPrint_returns6()
         {
             var fizzBuzzer = new FizzBuzzer();
             int result = fizzBuzzer.Print();
 
-            result = fizzBuzzer.NextPrint(result);
+            result = fizzBuzzer.NextPrint(5);
 
-            Assert.AreEqual(5, result);
-
-
-
+            Assert.AreEqual(6, result);
         }
 
     }
