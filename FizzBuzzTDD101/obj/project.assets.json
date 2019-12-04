@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/Users/sooraj104/.nuget/packages/": {}
+    "/Users/mark/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sooraj104/Projects/FizzBuzzer/FizzBuzzTDD101/FizzBuzzTDD101.csproj",
+      "projectUniqueName": "/Users/mark/Projects/FizzBuzzer/FizzBuzzTDD101/FizzBuzzTDD101.csproj",
       "projectName": "FizzBuzzTDD101",
-      "projectPath": "/Users/sooraj104/Projects/FizzBuzzer/FizzBuzzTDD101/FizzBuzzTDD101.csproj",
-      "packagesPath": "/Users/sooraj104/.nuget/packages/",
-      "outputPath": "/Users/sooraj104/Projects/FizzBuzzer/FizzBuzzTDD101/obj/",
+      "projectPath": "/Users/mark/Projects/FizzBuzzer/FizzBuzzTDD101/FizzBuzzTDD101.csproj",
+      "packagesPath": "/Users/mark/.nuget/packages/",
+      "outputPath": "/Users/mark/Projects/FizzBuzzer/FizzBuzzTDD101/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/sooraj104/.config/NuGet/NuGet.Config"
+        "/Users/mark/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -50,13 +54,7 @@
           "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
